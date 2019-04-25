@@ -1,3 +1,5 @@
+# Dimer example: N2 
+
 To perform the generation of Fermi-orbitals descriptors (FODs) 
 from a Lewis structure use following command
 ```bash
