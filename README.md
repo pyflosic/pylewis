@@ -1,5 +1,5 @@
 # PyLEWIS 
-#### Author: Sebastian Schwalbe (SS)  
+#### Author: Sebastian Schwalbe (SS) 
 #### Side-kick: Kai Trepte (KT)  
 #### Coding language: python2.7   
 
