@@ -1,3 +1,4 @@
+![GitHub Logo](/images/pylewis.png)
 # PyLEWIS 
 #### Author: Sebastian Schwalbe (SS, theonov13@gmail.com) 
 #### Side-kick: Kai Trepte (KT)  
