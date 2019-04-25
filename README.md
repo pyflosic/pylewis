@@ -3,7 +3,7 @@
 #### Side-kick: Kai Trepte (KT)  
 #### Coding language: python2.7   
 
-PyLewis requires following python packages: 
+PyLEWIS requires following python packages: 
 
 * rdkit   
 * ase   
