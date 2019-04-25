@@ -1,7 +1,7 @@
 # PyLEWIS 
-# Author: Sebastian Schwalbe (SS)   
-# Side-kick: Kai Trepte (KT)   
-# Coding language: python2.7 
+## Author: Sebastian Schwalbe (SS)   
+## Side-kick: Kai Trepte (KT)   
+## Coding language: python2.7 
 
 PyLewis requires following python packages: 
 
