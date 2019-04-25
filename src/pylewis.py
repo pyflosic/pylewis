@@ -238,19 +238,19 @@ def lewis2xyz(lewis,f='SMILES',aromatic=False,dim=2,addH=True):
                                 fods.append(Atom(spin,[MP[0]+offset,MP[1]+offset,MP[2]-0.5+offset]))
                                 fods.append(Atom(spin,[MP[0]-0.5+offset,MP[1]+offset,MP[2]+offset]))
 
-                w = Chem.SDWriter('%s.sdf' %lewis)
+                w = Chem.SDWriter('%s.sdf' % 'pylewis')
                 w.write(m)
                 w.flush()
 
                 # sdf2xyz       
-                struct = read('%s.sdf' % lewis)
+                struct = read('%s.sdf' % 'pylewis')
                 struct_fods = Atoms()
                 struct_fods.extend(struct)
                 struct_fods.extend(fods)
 
                 #print(struct.get_chemical_symbols())
-                write('%s.xyz' % lewis,struct,'xyz')
-                write('%s_fods.xyz' % lewis,struct_fods,'xyz')
+                write('%s.xyz' % 'pylewis',struct,'xyz')
+                write('%s_fods.xyz' % 'pylewis',struct_fods,'xyz')
 
 # Test systems 
 # N2, some strange test, antracene, benzene, coronene 
