@@ -13,3 +13,5 @@ PyLEWIS requires following python packages:
 
 No further installation is need. 
  
+# How to use 
+Please go to the examples directory and try one of the examples. 
