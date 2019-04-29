@@ -5,7 +5,7 @@
 * Coding language: python2.7   
 
 # Installation  
-PyLEWIS requires following python packages: 
+PyLEWIS requires the following python packages: 
 
 * rdkit   
 * ase   
